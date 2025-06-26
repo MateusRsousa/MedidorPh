@@ -3,4 +3,4 @@
  e hora, consequentemente podendo acessar e vi sualizar esses valores. Sendo que um dos botões
  faz o salvamento dos valores numa lista, outro
  botão para acessar os valores da lista e percor rer os valores, e por fim um último botão para
- apagar os valores da lista
+ apagar os valores da lista.
